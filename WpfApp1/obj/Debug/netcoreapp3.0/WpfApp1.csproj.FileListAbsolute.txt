@@ -1,0 +1,17 @@
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.exe
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.deps.json
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.runtimeconfig.json
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.runtimeconfig.dev.json
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.dll
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.pdb
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.csprojAssemblyReference.cache
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\App.g.cs
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1_MarkupCompile.cache
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1_MarkupCompile.lref
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.g.resources
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.AssemblyInfoInputs.cache
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.AssemblyInfo.cs
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.dll
+D:\Study and university\YEAR 2\SEMESTER 4\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.pdb
